@@ -1,0 +1,3 @@
+bin/                           # Build outputs
+obj/                           # Intermediate files
+.idea/                         # IDE settings (personal)
